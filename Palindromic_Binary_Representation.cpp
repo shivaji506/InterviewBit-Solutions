@@ -56,4 +56,3 @@ int Solution::solve(int A) {
     }
     return ans;
 }
-
